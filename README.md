@@ -4,7 +4,7 @@ Undergraduate, lower division, University of California ICS program course work.
 
 **DISCLAIMER**
 ```
-At one point, god and I (and my professor) knew how these scripts worked. Now, only god knows. Please bear with me.
+At one point, god and I (and my professor) knew how these scripts worked.\n Now, only god knows. Please bear with me.
 ```
 
 ## ICS32
